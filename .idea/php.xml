@@ -73,6 +73,7 @@
       <path value="$PROJECT_DIR$/blog/vendor/sebastian/version" />
       <path value="$PROJECT_DIR$/blog/vendor/sebastian/diff" />
       <path value="$PROJECT_DIR$/blog/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/blog/vendor/laravelcollective/html" />
     </include_path>
   </component>
   <component name="PhpUnit">
